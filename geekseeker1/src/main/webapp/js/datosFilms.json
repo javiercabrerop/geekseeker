@@ -1,0 +1,283 @@
+[{
+		"nombre": "Donnie Darko",
+		"director": "Richard Kelly",
+		"Anio": "2001",
+		"duracion": "113 min",
+		"genero": "Accion",
+		"url": "images/films/donnie_darko.jpg"
+	},
+	{
+		"nombre": "The Disaster Artist",
+		"director": "James Franco",
+		"Anio": "2017",
+		"duracion": "105 min",
+		"genero": "Accion",
+		"url": "images/films/the_disaster.jpg"
+	},
+	{
+		"nombre": "Hereditary",
+		"director": "Ari Aster",
+		"Anio": "2018",
+		"duracion": "127 min",
+		"genero": "Suspense"
+	},
+	{
+		"nombre": "La princesa Mononoke",
+		"director": "Hayao Miyazaki",
+		"Anio": "1997",
+		"duracion": "134 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "IT (Eso)",
+		"director": "AndrÃ©s Muschietti",
+		"Anio": "2017",
+		"duracion": "146 min",
+		"genero": "Terror"
+	},
+	{
+		"nombre": "DÃ©jame salir",
+		"director": "Jordan Peele",
+		"Anio": "2017",
+		"duracion": "104 min",
+		"genero": "Suspense"
+	},
+	{
+		"nombre": "LlÃ¡mame por tu nombre",
+		"director": "Luca Guadagnino",
+		"Anio": "2018",
+		"duracion": "132 min",
+		"genero": "Romance"
+	},
+	{
+		"nombre": "Tres anuncios a las afueras",
+		"director": "Martin McDonagh",
+		"Anio": "2017",
+		"duracion": "112 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Millennium Actress",
+		"director": "Satoshi Kon",
+		"Anio": "2002",
+		"duracion": "87 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "Ella",
+		"director": "Spike Jonze",
+		"Anio": "2013",
+		"duracion": "126 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Langosta",
+		"director": "Yorgos Lanthimos",
+		"Anio": "2015",
+		"duracion": "118 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Memorias de una Geisha",
+		"director": "Rob Marshall",
+		"Anio": "2005",
+		"duracion": "145 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "La cabaÃ±a en el bosque",
+		"director": "Drew Goddard",
+		"Anio": "2012",
+		"duracion": "95 min",
+		"genero": "Terror"
+	},
+	{
+		"nombre": "Criadas y seÃ±oras",
+		"director": "Tate Taylor",
+		"Anio": "2011",
+		"duracion": "146 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "MuÃ±eco DiabÃ³lico",
+		"director": "Tom Holland",
+		"Anio": "1988",
+		"duracion": "87 min",
+		"genero": "Terror"
+	},
+	{
+		"nombre": "Vaya par de idiotas",
+		"director": "Hermanos Farrelly",
+		"Anio": "1996",
+		"duracion": "114 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "El dÃ­a de la bestia",
+		"director": "Ã�lex de la Iglesia",
+		"Anio": "1995",
+		"duracion": "103 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Virgen a los 40",
+		"director": "Judd Apatow",
+		"Anio": "2005",
+		"duracion": "116 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Pulp Fiction",
+		"director": "Quentin Tarantino",
+		"Anio": "1994",
+		"duracion": "154 min",
+		"genero": "Suspense"
+	},
+	{
+		"nombre": "El efecto mariposa",
+		"director": "Melora Walters",
+		"Anio": "2004",
+		"duracion": "113 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "La vida es bella",
+		"director": "Roberto Benigni",
+		"Anio": "1999",
+		"duracion": "116 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Los mundos de Coraline",
+		"director": "Henry Selick",
+		"Anio": "2009",
+		"duracion": "97 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "El libro de la selva",
+		"director": "Wolfgang Reitherman",
+		"Anio": "1967",
+		"duracion": "78 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "Reservoir Dogs",
+		"director": "Quentin Tarantino",
+		"Anio": "1992",
+		"duracion": "99 min",
+		"genero": "Suspense"
+	},
+	{
+		"nombre": "Paprika, detective de los sueÃ±os",
+		"director": "Satoshi Kon",
+		"Anio": "2006",
+		"duracion": "90 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "Baby Driver",
+		"director": "Edward Wright",
+		"Anio": "2017",
+		"duracion": "115 min",
+		"genero": "AcciÃ³n"
+	},
+	{
+		"nombre": "El precio del poder",
+		"director": "Brian De Palma",
+		"Anio": "1983",
+		"duracion": "170 min",
+		"genero": "AcciÃ³n"
+	},
+	{
+		"nombre": "Cabeza borradora",
+		"director": "David Lynch",
+		"Anio": "1977",
+		"duracion": "89 min",
+		"genero": "Terror"
+	},
+	{
+		"nombre": "Toy Story",
+		"director": "John Lassester",
+		"Anio": "1995",
+		"duracion": "77 min",
+		"genero": "AnimaciÃ³n"
+	},
+	{
+		"nombre": "Gran Torino",
+		"director": "Clint Eastwood",
+		"Anio": "2008",
+		"duracion": "112 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Terminator",
+		"director": "James Cameron",
+		"Anio": "1985",
+		"duracion": "108 min",
+		"genero": "AcciÃ³n"
+	},
+	{
+		"nombre": "El SeÃ±or de los Anillos: La Comunidad del Anillo",
+		"director": "Peter Jackson",
+		"Anio": "2001",
+		"duracion": "228 min",
+		"genero": "FantasÃ­a"
+	},
+	{
+		"nombre": "Harry Potter y la CÃ¡mara Secreta",
+		"director": "Chris Columbus",
+		"Anio": "2002",
+		"duracion": "161 min",
+		"genero": "FantasÃ­a"
+	},
+	{
+		"nombre": "MalÃ©fica",
+		"director": "Robert Stromberg",
+		"Anio": "2014",
+		"duracion": "97 min",
+		"genero": "FantasÃ­a"
+	},
+	{
+		"nombre": "Joker",
+		"director": "Todd Phillips",
+		"Anio": "2019",
+		"duracion": "123 min",
+		"genero": "Drama"
+	},
+	{
+		"nombre": "Solo en Casa",
+		"director": "Chris Columbus",
+		"Anio": "1990",
+		"duracion": "104 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Esta Abuela es un Peligro",
+		"director": "Raja Gosnell",
+		"Anio": "2000",
+		"duracion": "98 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Jackass: la pelÃ­cula",
+		"director": "Jeff Tremaine",
+		"Anio": "2002",
+		"duracion": "87 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Resacon en las Vegas",
+		"director": "Todd Phillips",
+		"Anio": "2009",
+		"duracion": "100 min",
+		"genero": "Comedia"
+	},
+	{
+		"nombre": "Las CrÃ³nicas de Narnia: EL LeÃ³n, la Bruja y el Armario",
+		"director": "Andrew Adamson",
+		"Anio": "2005",
+		"duracion": "143 min",
+		"genero": "FantasÃ­a"
+	}
+]

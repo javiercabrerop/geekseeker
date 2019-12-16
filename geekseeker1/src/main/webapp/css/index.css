@@ -1,0 +1,118 @@
+@font-face {
+  font-family: "heinrich";
+  src: url("../fonts/Heinrich.ttf");
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: #b366ff;
+  margin-bottom: 5px;
+  z-index:3; 
+}
+
+#navbar a {
+  float: left;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 7px 25px;
+  text-decoration: none;
+  font-family: heinrich;
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+#navbar a:hover {
+  background-color: #ff9633;
+  color: black;
+}
+
+#navbar a.active {
+  background-color: #2e5cb8;
+  color: white;
+  filter: saturate(70%);
+}
+
+#navbar .search-container button {
+  float: right;
+  padding: 6px 10px;
+  margin-top: 6px;
+  margin-right: 16px;
+  background: #ddd;
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+}
+
+#navbar .search-container button:hover {
+  background: #ff9633;
+}
+
+#navbar .search-container {
+  float: right;
+}
+
+#navbar input[type=text] {
+  padding: 6px;
+  margin-top: 6px;
+  margin-bottom: 3px;
+  font-size: 17px;
+  border: none;
+}
+
+#myCarousel{
+  position: block;
+  width:100%;
+  top: 0px;
+}
+
+#cuadro_lis {
+  padding: 18px;
+  padding-left: 0px; 
+  text-align: left; 
+  font-size: 25px; 
+  display: inline-block;
+  height: 450px;
+  font-family: Century Gothic; 
+}
+
+#ults{
+  position: block;
+  z-index: 3;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+#tablenav{
+	font-family: "heinrich";
+	color: white;
+	font-size: 25px;
+	letter-spacing: 1px;
+	overflow: hidden;
+	background-color: #2e5cb8;
+	filter: saturate(70%);
+	text-align: center;
+	height: 40px;
+	padding-top: 4px;
+	margin-top: 20px;
+}
+.bottomnav {
+	overflow: hidden;
+	background-color: #b366ff;
+	text-align: center;
+	height: 40px;
+	padding-top: 10px;
+	margin-bottom: 2px;
+}
+
+#cuadro_lis #tit {
+	font-family: fantasy; 
+	font-size: 30px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+}

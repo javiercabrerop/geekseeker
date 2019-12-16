@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "coolvetica";
+  src: url("../fonts/coolvetica.ttf");
+}
+
+img{
+	display: block; 
+	width: 60%; 
+	margin: auto;
+}
+
+legend {
+	font-family: coolvetica; 
+	font-size: 20px;	
+}
+
+label, input {
+	font-family: coolvetica;
+}

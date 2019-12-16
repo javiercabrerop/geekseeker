@@ -1,0 +1,275 @@
+[{
+		"nombre": "Night in the Woods",
+		"año": "2017",
+		"desarrolladora": "Infinity Fall",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/night.jpg"
+	},
+	{
+		"nombre": "VA-11 HALL-A: Cyberpunk Bartender Action",
+		"año": "2016",
+		"desarrolladora": "Sukeban Games",
+		"genero": "Simulación",
+		"url" : "images/videojuegos/va11.jpg"
+	},
+	{
+		"nombre": "Fran Bow",
+		"año": "‘2015’",
+		"desarrolladora": "Killmonday Games AB",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/Fran Bow.jpg"
+	},
+	{
+		"nombre": "Hollow Knight",
+		"año": "2017",
+		"desarrolladora": "Team Cherry",
+		"genero": "Metroidvania",
+		"url" : "images/videojuegos/hollow_knight.jpg"
+	},
+	{
+		"nombre": "Inside",
+		"año": "2016",
+		"desarrolladora": "Playdead",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/inside.jpg"
+	},
+	{
+		"nombre": "Little Nightmares",
+		"año": "2017",
+		"desarrolladora": "Tarsier Studios",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/little_night.jpg"
+	},
+	{
+		"nombre": "The Lion's Song",
+		"año": "2016",
+		"desarrolladora": "Mi’pu’mi Games",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/lions_song.jpg"
+	},
+	{
+		"nombre": "Hyper Light Drifter",
+		"año": "2016",
+		"desarrolladora": "Heart Machine",
+		"genero": "Acción",
+		"url" : "images/videojuegos/hyper.jpg"
+	},
+	{
+		"nombre": "Kingdom Hearts",
+		"año": "2002",
+		"desarrolladora": "Square Enix",
+		"genero": "ARPG",
+		"url" : "images/videojuegos/kingdom.jpg"
+	},
+	{
+		"nombre": "OneShot",
+		"año": "2016",
+		"desarrolladora": "Little Cat Feet",
+		"genero": "Puzzle",
+		"url" : "images/videojuegos/one_shot.jpg"
+	},
+	{
+		"nombre": "Slay the Spire",
+		"año": "2017",
+		"desarrolladora": "Mega Crit Games",
+		"genero": "Puzzle",
+		"url" : "images/videojuegos/slay.jpg"
+	},
+	{
+		"nombre": "Half Life",
+		"año": "1998",
+		"desarrolladora": "Valve Corporation",
+		"genero": "Shooter",
+		"url" : "images/videojuegos/half_life.jpg"
+	},
+	{
+		"nombre": "Counter-Strike",
+		"año": "1999",
+		"desarrolladora": "Valve Corporation",
+		"genero": "Shooter",
+		"url" : "images/videojuegos/counter.jpg"
+	},
+	{
+		"nombre": "The Elder Scrolls V: Skyrim",
+		"año": "2011",
+		"desarrolladora": "Bethesda Game Studios",
+		"genero": "ARPG",
+		"url" : "images/videojuegos/skyrim.jpg"
+	},
+	{
+		"nombre": "Portal 2",
+		"año": "2011",
+		"desarrolladora": "Valve Corporation",
+		"genero": "Puzzle",
+		"url" : "images/videojuegos/portal.jpg"
+	},
+	{
+		"nombre": "The Witcher 3: Wild Hunt",
+		"año": "2015",
+		"desarrolladora": "CD Projekt RED",
+		"genero": "ARPG",
+		"url" : "images/videojuegos/the-witcher-3-wild-hunt.jpg"
+	},
+	{
+		"nombre": "Grand Theft Auto: Vice City",
+		"año": "2002",
+		"desarrolladora": "Rockstar North",
+		"genero": "Acción",
+		"url" : "images/videojuegos/grand.jpg"
+	},
+	{
+		"nombre": "Tzar: The Burden of the Crown",
+		"año": "2000",
+		"desarrolladora": "Haemimont Games",
+		"genero": "RTS",
+		"url" : "images/videojuegos/tzar.jpg"
+	},
+	{
+		"nombre": "Los Sims 4",
+		"año": "2014",
+		"desarrolladora": "Maxis",
+		"genero": "Simulación",
+		"url" : "images/videojuegos/sims.jpg"
+	},
+	{
+		"nombre": "Resident Evil 7",
+		"año": "2017",
+		"desarrolladora": "Capcom",
+		"genero": "Terror",
+		"url" : "images/videojuegos/resident-evil-7.jpg"
+	},
+	{
+		"nombre": "Spyro, el Año del Dragón",
+		"año": "2000",
+		"desarrolladora": "Insomniac Games",
+		"genero": "Plataformas",
+		"url" : "images/videojuegos/spyro.jpg"
+	},
+	{
+		"nombre": "Castlevania: Symphony of the Night",
+		"año": "1997",
+		"desarrolladora": "Konami",
+		"genero": "Metroidvania",
+		"url" : "images/videojuegos/castlevania.jpg"
+	},
+	{
+		"nombre": "Enter the Gungeon",
+		"año": "2016",
+		"desarrolladora": "Dodge Roll",
+		"genero": "Roguelike",
+		"url" : "images/videojuegos/gungeon.jpg"
+	},
+	{
+		"nombre": "Civilization VI",
+		"año": "2016",
+		"desarrolladora": "Firaxis Games",
+		"genero": "RTS",
+		"url" : "images/videojuegos/civilization.jpg"
+	},
+	{
+		"nombre": "A Hat in Time",
+		"año": "2017",
+		"desarrolladora": "Gears for Breakfast",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/hat.jpg"
+	},
+	{
+		"nombre": "World of Warcraft",
+		"año": "1994",
+		"desarrolladora": "Blizzard Entertaiment",
+		"genero": "MMORPG",
+		"url" : "images/videojuegos/wow.jpg"
+	},
+	{
+		"nombre": "Air Combat",
+		"año": "1995",
+		"desarrolladora": "Bandai Namco",
+		"genero": "Simulación",
+		"url" : "images/videojuegos/Ace Combat 7.jpg"
+	},
+	{
+		"nombre": "Hollywood Monster",
+		"año": "1997",
+		"desarrolladora": "FX Interactive",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/hollywood.jpg"
+	},
+	{
+		"nombre": "Thimbleweed Park",
+		"año": "2017",
+		"desarrolladora": "Terrible Toybox",
+		"genero": "Aventura gráfica",
+		"url" : "images/videojuegos/thimbleweed.jpg"
+	},
+	{
+		"nombre": "Fallout New vegas",
+		"año": "2010",
+		"desarrolladora": "Obsidian Entertaiment",
+		"genero": "RPG",
+		"url" : "images/videojuegos/newVegas.jpg.jpg"
+	},
+	{
+		"nombre": "Silent Hill",
+		"año": "1999",
+		"desarrolladora": "Konami",
+		"genero": "Terror",
+		"url" : "images/videojuegos/sillent.jpg"
+	},
+	{
+		"nombre": "Axiom Verge",
+		"año": "2015",
+		"desarrolladora": "Thomas Happ Games LLC",
+		"genero": "Metroidvania",
+		"url" : "images/videojuegos/axiom-verge-cover.jpg"
+	},
+	{
+		"nombre": "Banjo Kazooie",
+		"año": "1998",
+		"desarrolladora": "Rare",
+		"genero": "Plataformas",
+		"url" : "images/videojuegos/banjo.jpg"
+	},
+	{
+		"nombre": "Yooka Laylee",
+		"año": "2017",
+		"desarrolladora": "Playtonic Games",
+		"genero": "Plataformas",
+		"url" : "images/videojuegos/yooka.jpg"
+	},
+	{
+		"nombre": "Guild Wars",
+		"año": "2005",
+		"desarrolladora": "ArenaNet",
+		"genero": "MMORPG",
+		"url" : "images/videojuegos/guildwars.jpg"
+	},
+	{
+		"nombre": "Final Fantasy XIV",
+		"año": "2010",
+		"desarrolladora": "Square Enix",
+		"genero": "MMORPG",
+		"url" : "images/videojuegos/final.jpg"
+	},
+	{
+		"nombre": "The Binding of Isaac",
+		"año": "2011",
+		"desarrolladora": "Edmund McMillen",
+		"genero": "Roguelike",
+		"url" : "images/videojuegos/the-binding.jpg"
+	},
+	{
+		"nombre": "Nuclear Throne",
+		"año": "2015",
+		"desarrolladora": "Vlambeer",
+		"genero": "Roguelike",
+		"url" : "images/videojuegos/Nuclear Throne.jpg"
+	},
+	{
+		"nombre": "Q.U.B.E.",
+		"año": "2011",
+		"desarrolladora": "Toxic Games",
+		"genero": "Puzzle",
+		"url" : "images/videojuegos/qube.jpg"
+	}
+
+]

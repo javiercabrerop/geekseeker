@@ -1,0 +1,314 @@
+[{
+		"nombre": "Donnie Darko",
+		"director": "Richard Kelly",
+		"año": "2001",
+		"duracion": "113 min",
+		"genero": "Suspense",
+		"url" : "images/films/donnie_darko.jpg"
+	},
+	{
+		"nombre": "The Disaster Artist",
+		"director": "James Franco",
+		"año": "2017",
+		"duracion": "105 min",
+		"genero": "Comedia",
+		"url" : "images/films/the_disaster.jpg"
+	},
+	{
+		"nombre": "Hereditary",
+		"director": "Ari Aster",
+		"año": "2018",
+		"duracion": "127 min",
+		"genero": "Terror",
+		"url" : "images/films/hereditary.jpg"
+	},
+	{
+		"nombre": "La princesa Mononoke",
+		"director": "Hayao Miyazaki",
+		"año": "1997",
+		"duracion": "134 min",
+		"genero": "Animación",
+		"url" : "images/films/mononoke.jpg"
+	},
+	{
+		"nombre": "IT (Eso)",
+		"director": "Andrés Muschietti",
+		"año": "2017",
+		"duracion": "146 min",
+		"genero": "Terror",
+		"url": "images/films/it.jpg"
+	},
+	{
+		"nombre": "Déjame salir",
+		"director": "Jordan Peele",
+		"año": "2017",
+		"duracion": "104 min",
+		"genero": "Suspense",
+		"url" : "images/films/dejame_salir.jpg"
+	},
+	{
+		"nombre": "Llámame por tu nombre",
+		"director": "Luca Guadagnino",
+		"año": "2018",
+		"duracion": "132 min",
+		"genero": "Romance",
+		"url" : "images/films/llamame_nombre.jpg"
+	},
+	{
+		"nombre": "Tres anuncios a las afueras",
+		"director": "Martin McDonagh",
+		"año": "2017",
+		"duracion": "112 min",
+		"genero": "Drama",
+		"url" : "images/films/tres_anuncios_afueras.jpg"
+	},
+	{
+		"nombre": "Millennium Actress",
+		"director": "Satoshi Kon",
+		"año": "2002",
+		"duracion": "87 min",
+		"genero": "Animación",
+		"url" : "images/films/millenium.jpg"
+	},
+	{
+		"nombre": "Ella",
+		"director": "Spike Jonze",
+		"año": "2013",
+		"duracion": "126 min",
+		"genero": "Drama",
+		"url" : "images/films/ella.jpg"
+	},
+	{
+		"nombre": "Langosta",
+		"director": "Yorgos Lanthimos",
+		"año": "2015",
+		"duracion": "118 min",
+		"genero": "Drama",
+		"url" : "images/films/langosta.jpg"
+	},
+	{
+		"nombre": "Memorias de una Geisha",
+		"director": "Rob Marshall",
+		"año": "2005",
+		"duracion": "145 min",
+		"genero": "Drama",
+		"url" : "images/films/memorias_geisha.jpg"
+	},
+	{
+		"nombre": "La cabaña en el bosque",
+		"director": "Drew Goddard",
+		"año": "2012",
+		"duracion": "95 min",
+		"genero": "Terror",
+		"url" : "images/films/cabaña_bosque.jpg"
+	},
+	{
+		"nombre": "Criadas y señoras",
+		"director": "Tate Taylor",
+		"año": "2011",
+		"duracion": "146 min",
+		"genero": "Drama",
+		"url" : "images/films/criadas_y_señoras.jpg"
+	},
+	{
+		"nombre": "Muñeco Diabólico",
+		"director": "Tom Holland",
+		"año": "1988",
+		"duracion": "87 min",
+		"genero": "Terror",
+		"url" : "images/films/muñecoDiabolico.jpg"
+	},
+	{
+		"nombre": "Vaya par de idiotas",
+		"director": "Hermanos Farrelly",
+		"año": "1996",
+		"duracion": "114 min",
+		"genero": "Comedia",
+		"url" : "images/films/vaya_par.jpg"
+	},
+	{
+		"nombre": "El día de la bestia",
+		"director": "Álex de la Iglesia",
+		"año": "1995",
+		"duracion": "103 min",
+		"genero": "Comedia",
+		"url" : "images/films/elDiaBestia.jpg"
+	},
+	{
+		"nombre": "Virgen a los 40",
+		"director": "Judd Apatow",
+		"año": "2005",
+		"duracion": "116 min",
+		"genero": "Comedia",
+		"url" : "images/films/virgen.jpg"
+	},
+	{
+		"nombre": "Pulp Fiction",
+		"director": "Quentin Tarantino",
+		"año": "1994",
+		"duracion": "154 min",
+		"genero": "Suspense",
+		"url" : "images/films/pulpFiction.jpg"
+	},
+	{
+		"nombre": "El efecto mariposa",
+		"director": "Melora Walters",
+		"año": "2004",
+		"duracion": "113 min",
+		"genero": "Ciencia Ficción",
+		"url" : "images/films/el_efecto_m.jpg"
+	},
+	{
+		"nombre": "La vida es bella",
+		"director": "Roberto Benigni",
+		"año": "1999",
+		"duracion": "116 min",
+		"genero": "Drama",
+		"url" : "images/films/vidaEsBella.jpg"
+	},
+	{
+		"nombre": "Los mundos de Coraline",
+		"director": "Henry Selick",
+		"año": "2009",
+		"duracion": "97 min",
+		"genero": "Animación",
+		"url" : "images/films/los_mundos_coraline.jpg"
+	},
+	{
+		"nombre": "El libro de la selva",
+		"director": "Wolfgang Reitherman",
+		"año": "1967",
+		"duracion": "78 min",
+		"genero": "Animación",
+		"url" : "images/films/libro_selva.jpg"
+	},
+	{
+		"nombre": "Reservoir Dogs",
+		"director": "Quentin Tarantino",
+		"año": "1992",
+		"duracion": "99 min",
+		"genero": "Suspense",
+		"url" : "images/films/reservoir_dogs.jpg"
+	},
+	{
+		"nombre": "Paprika, detective de los sueños",
+		"director": "Satoshi Kon",
+		"año": "2006",
+		"duracion": "90 min",
+		"genero": "Animación",
+		"url" : "images/films/paprika.jpg"
+	},
+	{
+		"nombre": "Baby Driver",
+		"director": "Edward Wright",
+		"año": "2017",
+		"duracion": "115 min",
+		"genero": "Acción",
+		"url" : "images/films/baby_diver.jpg"
+	},
+	{
+		"nombre": "El precio del poder",
+		"director": "Brian De Palma",
+		"año": "1983",
+		"duracion": "170 min",
+		"genero": "Acción",
+		"url" : "images/films/scarface.jpg"
+	},
+	{
+		"nombre": "Cabeza borradora",
+		"director": "David Lynch",
+		"año": "1977",
+		"duracion": "89 min",
+		"genero": "Terror",
+		"url" : "images/films/cabeza_borr.jpg"
+		
+	},
+	{
+		"nombre": "Gran Torino",
+		"director": "Clint Eastwood",
+		"año": "2008",
+		"duracion": "112 min",
+		"genero": "Drama",
+		"url" : "images/films/gran_torino.jpg"
+	},
+	{
+		"nombre": "Terminator",
+		"director": "James Cameron",
+		"año": "1985",
+		"duracion": "108 min",
+		"genero": "Acción",
+		"url" : "images/films/terminator.jpg"
+	},
+	{
+		"nombre": "El Señor de los Anillos: La Comunidad del Anillo",
+		"director": "Peter Jackson",
+		"año": "2001",
+		"duracion": "228 min",
+		"genero": "Fantasía",
+		"url" : "images/films/el_señor_anillos.jpg"
+	},
+	{
+		"nombre": "Harry Potter y la Cámara Secreta",
+		"director": "Chris Columbus",
+		"año": "2002",
+		"duracion": "161 min",
+		"genero": "Fantasía",
+		"url" : "images/films/harry_potter.jpg"
+	},
+	{
+		"nombre": "Maléfica",
+		"director": "Robert Stromberg",
+		"año": "2014",
+		"duracion": "97 min",
+		"genero": "Fantasía",
+		"url" : "images/films/malefica.jpg"
+	},
+	{
+		"nombre": "Joker",
+		"director": "Todd Phillips",
+		"año": "2019",
+		"duracion": "123 min",
+		"genero": "Drama",
+		"url" : "images/films/joker.jpg"
+	},
+	{
+		"nombre": "Solo en Casa",
+		"director": "Chris Columbus",
+		"año": "1990",
+		"duracion": "104 min",
+		"genero": "Comedia",
+		"url" : "images/films/solo_en_casa.jpg"
+	},
+	{
+		"nombre": "Esta Abuela es un Peligro",
+		"director": "Raja Gosnell",
+		"año": "2000",
+		"duracion": "98 min",
+		"genero": "Comedia",
+		"url" : "images/films/abuela_peligro.jpg"
+	},
+	{
+		"nombre": "Regreso al Futuro",
+		"director": "Robert Zemeckis",
+		"año": "1985",
+		"duracion": "116  min",
+		"genero": "Ciencia Ficción",
+		"url" : "images/films/regrFut.jpg"
+	},
+	{
+		"nombre": "Resacon en las Vegas",
+		"director": "Todd Phillips",
+		"año": "2009",
+		"duracion": "100 min",
+		"genero": "Comedia",
+		"url" : "images/films/resacon.jpg"
+	},
+	{
+		"nombre": "Las Crónicas de Narnia: EL León, la Bruja y el Armario",
+		"director": "Andrew Adamson",
+		"año": "2005",
+		"duracion": "143 min",
+		"genero": "Fantasía",
+		"url" : "images/films/narnia.jpg"
+	}
+]

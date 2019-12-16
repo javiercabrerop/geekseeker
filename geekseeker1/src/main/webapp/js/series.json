@@ -1,0 +1,313 @@
+[{
+	"nombre": "Dark",
+	"director": "Baran bo Odar",
+	"años": "2017 - Actualidad",
+	"capitulos": "18",
+	"genero": "Sobrenatural",
+	"url" : "images/series/dark.jpg"
+},
+{
+	"nombre": "Devilman Crybaby",
+	"director": "Go Nagai",
+	"años": "2018",
+	"capitulos": "18",
+	"genero": "Animación",
+	"url" : "images/series/devilmanCrybaby.jpg"
+},
+{
+	"nombre": "Paranoia Agent",
+	"director": "Satoshi Kon",
+	"años": "2004",
+	"capitulos": "13",
+	"genero": "Animación",
+	"url" : "images/series/paranoiaAgent.jpg"
+},
+{
+	"nombre": "Ping Pong: The Animation",
+	"director": "Masaaki Yuasa",
+	"años": "2014",
+	"capitulos": "11",
+	"genero": "Animación",
+	"url" : "images/series/pingPong.jpg"
+},
+{
+	"nombre": "Haikyu!!",
+	"director": "Susumu Mitsunaka",
+	"años": "2014 - 2016",
+	"capitulos": "60",
+	"genero": "Animación",
+	"url" : "images/series/haikyu.jpg"
+},
+{
+	"nombre": "La maldición de Hill House",
+	"director": "Mike Flanagan",
+	"años": "2018 - Actualidad",
+	"capitulos": "10",
+	"genero": "Sobrenatural",
+	"url" : "images/series/hauntingHill.jpg"
+},
+{
+	"nombre": "Code Geass",
+	"director": "Ichiro Okouchi",
+	"años": "2017 - Actualidad",
+	"capitulos": "50",
+	"genero": "Animación",
+	"url" : "images/series/codeGeass.jpg"
+},
+{
+	"nombre": "Nana",
+	"director": "Morio Asaka",
+	"años": "2006 - 2007",
+	"capitulos": "47",
+	"genero": "Animación",
+	"url" : "images/series/nana.jpg"
+},
+{
+	"nombre": "Tengen Toppa Gurren Lagann",
+	"director": "Hiroyuki Imaishi",
+	"años": "2007",
+	"capitulos": "27",
+	"genero": "Animación",
+	"url" : "images/series/gurrenLagann.jpg"
+},
+{
+	"nombre": "Yakusoku no Neverland (The Promised Neverland)",
+	"director": "Mamoru Kanbe",
+	"años": "2019",
+	"capitulos": "12",
+	"genero": "Animación",
+	"url" : "images/series/yakusokuNeverland.jpg"
+},
+{
+	"nombre": "Nurse Jackie",
+	"director": "Liz Brixius",
+	"años": "2009 - 2015",
+	"capitulos": "80",
+	"genero": "Comedia",
+	"url" : "images/series/nurseJackie.jpg"
+},
+{
+	"nombre": "Los Simpson",
+	"director": "Matt Groening",
+	"años": "1989 - Actualidad",
+	"capitulos": "670",
+	"genero": "Animación",
+	"url" : "images/series/simpsons.jpg"
+},
+{
+	"nombre": "Futurama",
+	"director": "Matt Groening",
+	"años": "1999 - 2013",
+	"capitulos": "140",
+	"genero": "Animación",
+	"url" : "images/series/futurama.jpg"
+},
+{
+	"nombre": "Hana Yori Dango",
+	"director": "Shigeyasu Yamauchi",
+	"años": "1996 - 1997",
+	"capitulos": "51",
+	"genero": "Animación",
+	"url" : "images/series/hanaYori.jpg"
+},
+{
+	"nombre": "My Mad Fat Diary",
+	"director": "Tim Kirkby",
+	"años": "2013 - 2015",
+	"capitulos": "16",
+	"genero": "Comedia",
+	"url" : "images/series/madFatDiary.jpg"
+},
+{
+	"nombre": "Orange is the New Black",
+	"director": "Jenji Kohan",
+	"años": "2013 - 2019",
+	"capitulos": "91",
+	"genero": "Comedia",
+	"url" : "images/series/oitnb.jpg"
+},
+{
+	"nombre": "Aquí No Hay Quien Viva",
+	"director": "Iñaki Ariztimuño",
+	"años": "2003 - 2006",
+	"capitulos": "90",
+	"genero": "Comedia",
+	"url" : "images/series/anhqv.jpg"
+},
+{
+	"nombre": "American Horror Story",
+	"director": "Ryan Murphy",
+	"años": "2011 - Actualidad",
+	"capitulos": "103",
+	"genero": "Sobrenatural",
+	"url" : "images/series/ahs.jpg"
+},
+{
+	"nombre": "Westworld",
+	"director": "Jonathan Nolan",
+	"años": "2016 - Actualidad",
+	"capitulos": "20",
+	"genero": "Ciencia Ficción",
+	"url" : "images/series/westworld.jpg"
+},
+{
+	"nombre": "Ally McBeal",
+	"director": "David E. Kelley",
+	"años": "1997 - 2002",
+	"capitulos": "112",
+	"genero": "Comedia",
+	"url" : "images/series/ally.jpg"
+},
+{
+	"nombre": "Electric City",
+	"director": "Tom Hanks",
+	"años": "2012",
+	"capitulos": "20",
+	"genero": "Animación",
+	"url" : "images/series/electricCity.jpg"
+},
+{
+	"nombre": "Hora de Aventuras",
+	"director": "Larry Leichlitier",
+	"años": "2010 - 2018",
+	"capitulos": "283",
+	"genero": "Animación",
+	"url" : "images/series/hda.jpg"
+},
+{
+	"nombre": "Perdidos",
+	"director": "J.J. Abrahams",
+	"años": "2004 - 2010",
+	"capitulos": "121",
+	"genero": "Drama",
+	"url" : "images/series/lost.jpg"
+},
+{
+	"nombre": "The end of the f***ing world",
+	"director": "Jonathan Entwistle",
+	"años": "2017",
+	"capitulos": "8",
+	"genero": "Comedia",
+	"url" : "images/series/teofw.jpg"
+},
+{
+	"nombre": "The Office",
+	"director": "Michael Schrute Halper",
+	"años": "2005 - 2013",
+	"capitulos": "201",
+	"genero": "Comedia",
+	"url" : "images/series/theOffice.jpg"
+},
+{
+	"nombre": "Peaky Blinders",
+	"director": "Steven Knight",
+	"años": "2013 - Actualidad",
+	"capitulos": "30",
+	"genero": "Drama",
+	"url" : "images/series/peakyBlinders.jpg"
+},
+{
+	"nombre": "Bajo Escucha",
+	"director": "David Simon",
+	"años": "2002 - 2008",
+	"capitulos": "60",
+	"genero": "Drama",
+	"url" : "images/series/bajoEscucha.jpg"
+},
+{
+	"nombre": "Breaking Bad",
+	"director": "Vince Gilligan",
+	"años": "2008 - 2013",
+	"capitulos": "62",
+	"genero": "Drama",
+	"url" : "images/series/bb.jpg"
+},
+{
+	"nombre": "True Blood",
+	"director": "Alan Ball",
+	"años": "2008 - 2014",
+	"capitulos": "80",
+	"genero": "Ciencia Ficción",
+	"url" : "images/series/trueBlood.jpg"
+},
+{
+	"nombre": "El Cuento de la Criada",
+	"director": "Bruce Miller",
+	"años": "2017 - Actualidad",
+	"capitulos": "36",
+	"genero": "Drama",
+	"url" : "images/series/cuentosCriada.jpg"
+},
+{
+	"nombre": "Shameless",
+	"director": "Jhon Wells",
+	"años": "2011 - Actualidad",
+	"capitulos": "110",
+	"genero": "Comedia",
+	"url" : "images/series/shameless.jpg"
+},
+{
+	"nombre": "Patrick Melrose",
+	"director": "David Nicholls",
+	"años": "2018",
+	"capitulos": "5",
+	"genero": "Drama",
+	"url" : "images/series/patrick.jpg"
+},
+{
+	"nombre": "Crónicas Vampíricas",
+	"director": "Kevin Williamson",
+	"años": "2009 - 2017",
+	"capitulos": "171",
+	"genero": "Ciencia Ficción",
+	"url" : "images/series/theVampDiaries.jpg"
+},
+{
+	"nombre": "Élite",
+	"director": "Carlos Montero",
+	"años": "2018 - 2014",
+	"capitulos": "16",
+	"genero": "Suspense",
+	"url" : "images/series/elite.jpg"
+},
+{
+	"nombre": "La Casa de Papel",
+	"director": "Álex Pina",
+	"años": "2017 - Actualidad",
+	"capitulos": "23",
+	"genero": "Suspense",
+	"url" : "images/series/laCasaPapel.jpg"
+},
+{
+	"nombre": "Lobo Adolescente",
+	"director": "Jeff Davis",
+	"años": "2011 - 2017",
+	"capitulos": "100",
+	"genero": "Acción",
+	"url" : "images/series/loboAdolescente.jpg"
+},
+{
+	"nombre": "Titanes",
+	"director": "Akiva Goldsman",
+	"años": "2018 - Actualidad",
+	"capitulos": "17",
+	"genero": "Ciencia Ficción",
+	"url" : "images/series/titanes.jpg"
+},
+{
+	"nombre": "The originals",
+	"director": "Julie Plec",
+	"años": "2013 - 2018",
+	"capitulos": "92",
+	"genero": "Drama",
+	"url" : "images/series/originals.jpg"
+},
+{
+	"nombre": "Smallville",
+	"director": "Jerry Siegel",
+	"años": "2001 - 2011",
+	"capitulos": "217",
+	"genero": "Ciencia Ficción",
+	"url" : "images/series/smallville.jpg"
+}
+]
